@@ -1,11 +1,11 @@
 {
   "sitedata": [
     {
-      "sitename": "Fly My Community",
+      "sitename": "Corderra",
       "icon": "/img/favicon.png",
       "logo": "/img/logo.png",
       "metadesc": "Trusted By Fine Real Estate Professionals",
-      "metauthor": "Fly My Community",
+      "metauthor": "Andrew Botcherby",
       "metakeyword": "cms"
     }
   ],
@@ -13,7 +13,7 @@
     {
       "email": "realagent@flymycommunity.com",
       "linkcont": "032000333555",
-      "videoid": "264108042",
+      "videoid": "237147151",
       "sliderbg": "/img/sliderbg.jpg"
     }
   ],
